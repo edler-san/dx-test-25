@@ -1,0 +1,9 @@
+{
+  "lumoImports" : [ "typography", "color", "spacing", "badge", "utility" ],
+  "assets" : {
+    "@fontsource/roboto-slab" : {
+      "*.css" : "@fontsource/roboto-slab",
+      "files/*" : "@fontsource/roboto-slab/files"
+    }
+  }
+}
